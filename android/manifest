@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+description: TiTextNormalizer
+author: ryugoo
+license: Specify your license
+copyright: Copyright (c) 2014 by ryugoo
+
+# these should not be edited
+name: TiTextNormalizer
+moduleid: net.imthinker.ti.textnormalizer
+guid: 59e52e34-d771-4866-819c-eef4928aa1e0
+platform: android
+minsdk: 3.4.1.GA
